@@ -1,0 +1,7 @@
+apiVersion: v2
+name: payment-api-chart
+version: 1.0.0
+description: Helm chart to deploy Payment API
+maintainers:
+  - name: Guillaume Miot
+    email: guillaume.miot@viacesi.fr
